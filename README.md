@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammad-Osama    
-- 👀 I’m interested in Python Programming, Data Science, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Python and AI projects.
+- 👀 I’m interested in Web Development using .Net(C#), Javascript, Python, Flutter,SQL and so on.
+- 🌱 I’m currently working as a software engineer working on web and moble application.
+- 💞️ I’m looking to collaborate with mid size companies to build their apps.
 - 📫 How to reach me mlosama252@gmail.com
 
 <!---
